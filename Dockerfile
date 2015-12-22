@@ -2,6 +2,7 @@
 # Dockerfile for mantisbt
 #
 
+
 FROM php:5.6-apache
 MAINTAINER kev<noreply@datageek.info>
 
